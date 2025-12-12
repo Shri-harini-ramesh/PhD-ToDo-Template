@@ -7,7 +7,7 @@ This project is openly available so that other students or researchers facing si
 
 ### 💡 Why This Exists
 
-During my PhD, I struggled to find a tool that supported weekly planning, long-term project management, and energy-based task selection in one place. I wanted something light, focused, and easy to check throughout the day. After trying several tools, I realized none of them fit my needs, so I built a straightforward dashboard that keeps everything together without unnecessary features.
+As a PhD student, I struggled to find a tool that supported weekly planning, long-term project management, and energy-based task selection in one place. I wanted something light, focused, and easy to check throughout the day. After trying several tools, I realized none of them fit my needs, so I built a straightforward dashboard that keeps everything together without unnecessary features.
 
 The design is based on three ideas:
 
