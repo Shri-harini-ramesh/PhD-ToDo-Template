@@ -1,8 +1,3 @@
-This is a great, authentic, and professional README. It clearly outlines the problem you solved and the technical implementation.
-
-Here is the content formatted for a standard GitHub README.md file:
-
------
 
 ## 🔬 PhD ToDo Manager
 
