@@ -1,3 +1,21 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* --- ADD THIS BLOCK --- */
+@layer base {
+  html {
+    /* Default is usually 16px. 
+       Setting it to 12px makes 1rem = 12px.
+       This effectively scales your whole UI down to 75%.
+    */
+    font-size: 12px; 
+  }
+}
+
+/* Optional: Keep it readable on mobile */
+@media (max-width: 640px) {
+  html {
+    font-size: 14px; /* Slightly bigger on phones so text isn't tiny */
+  }
+}
