@@ -58,8 +58,8 @@ This project is built as a lightweight Progressive Web App (PWA).
 1.  **Clone the repository**
 
     ```bash
-    git clone https://github.com/Shri-harini-ramesh/PhD-ToDO-Template.git
-    cd PhD-ToDO-Template
+    git clone https://github.com/Shri-harini-ramesh/PhD-ToDo-Template.git
+    cd PhD-ToDo-Template
     ```
 
 2.  **Install dependencies**
